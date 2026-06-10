@@ -1,0 +1,19 @@
+data science project:
+ 
+https://python.plainenglish.io/85-data-science-project-c03c8750599e
+
+python course:
+
+https://www.kaggle.com/learn/python
+
+sql project:
+
+https://try.codecademy.com/geekydev_in
+
+power bi:
+ learning overview:
+	https://poweerbi.microsoft.com/en-us/learning/
+ data visualization with power bi:
+	https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi
+ power bi basic:
+	https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup
